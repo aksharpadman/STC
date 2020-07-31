@@ -6,9 +6,13 @@ https://link.springer.com/chapter/10.1007/978-981-13-9419-5_3
 The following code requires networkx and matplotlib libraries.
 
 1) install matplotlib 
-	```sh pip install matplotlib```
+	```sh 
+	     $ pip install matplotlib
+	```
 2) install networkx
-	```sh pip install networkx```
+	```sh 
+	     $ pip install networkx
+	```
 
 This Spanning tree covering(STC) algorithm is used to cover a given workspace with the least possible distance.
 
